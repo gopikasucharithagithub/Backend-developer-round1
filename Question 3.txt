@@ -1,0 +1,15 @@
+3.One-Line Answers (Answers to be written on .txt file)- 
+
+
+A.What is reverse-i-search in a Linux terminal?
+Ans :  To find past commands.
+
+
+B.How do you list out the hidden directories using Linux command line tool? 
+Ans : We should run the Is command with -a flag
+
+C.How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Ans : Beginner 
+
+D.Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+Ans : Apache web server , MySql , PHP
